@@ -6,7 +6,7 @@ img: cabin.png
 alt: image-alt
 project-date: April 2024
 client: Start Bootstrap
-category: Cae Lease
+category: Car Lease
 description:As one of the most trusted names in the automotive industry, the Camry has consistently set the standard for midsize sedans, combining sleek design with advanced technology to deliver an exceptional driving experience.
 Renowned for its smooth ride and fuel efficiency, the Camry is more than just a mode of transportation; it’s a statement of style and innovation. With a spacious interior crafted for both driver and passengers alike, every journey in the Camry is marked by comfort and convenience.
 Whether you’re navigating city streets or cruising on the highway, the Camry’s responsive handling and cutting-edge safety features ensure peace of mind on every drive. From its powerful yet efficient engine options to its intuitive infotainment system, the Camry seamlessly blends performance with modern connectivity.
