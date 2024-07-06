@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: safe.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Experience the epitome of luxury and performance with the BMW 5 Series. As BMW's flagship executive sedan, the 5 Series combines refined elegance with advanced technology and dynamic driving capabilities.Compared to the BMW 3 Series, the 5 Series offers a more spacious interior and a heightened level of comfort, ideal for those seeking executive-class refinement and amenities. It features advanced drivetrain options and cutting-edge technologies.
+---
