@@ -53,11 +53,11 @@ footer:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Collins Street
-  - line: Melbourne, VIC 3000
+  - line: 61 Trade Place 
+  - line: Coburg North, VIC 3058
 
 # Credits content
-credits: ''
+credits: 'for business inquiries please contact : support@kyrentout.com'
 
 # Build settings
 markdown: kramdown
