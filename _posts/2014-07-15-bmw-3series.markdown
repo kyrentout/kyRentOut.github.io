@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: game.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Whether you're cruising on the open road or navigating city streets, the BMW 3 Series offers versatility and refinement that redefine the driving experience. Experience the ultimate combination of athleticism and sophistication with the BMW 3 Series—a true icon of automotive excellence.
+---
