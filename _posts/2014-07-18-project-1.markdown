@@ -1,11 +1,14 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2024-07-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2024
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Cae Lease
+description:As one of the most trusted names in the automotive industry, the Camry has consistently set the standard for midsize sedans, combining sleek design with advanced technology to deliver an exceptional driving experience.
+Renowned for its smooth ride and fuel efficiency, the Camry is more than just a mode of transportation; it’s a statement of style and innovation. With a spacious interior crafted for both driver and passengers alike, every journey in the Camry is marked by comfort and convenience.
+Whether you’re navigating city streets or cruising on the highway, the Camry’s responsive handling and cutting-edge safety features ensure peace of mind on every drive. From its powerful yet efficient engine options to its intuitive infotainment system, the Camry seamlessly blends performance with modern connectivity.
+Join the millions who have chosen the Toyota Camry and discover why it continues to be a leader in its class. Embrace the joy of driving with a vehicle that excels in every aspect—welcome to the world of the Toyota Camry.
 ---
