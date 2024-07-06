@@ -35,7 +35,7 @@ footer:
   copyright: KY RentOut Car Lease
   location: Location
   #social: Around the Web
-  #credits: Credits
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 
@@ -57,7 +57,7 @@ address:
   - line: Coburg North, VIC 3058
 
 # Credits content
-credits: 'for business inquiries please contact : support@kyrentout.com'
+credits: 'For business inquiries please contact : support@kyrentout.com'
 
 # Build settings
 markdown: kramdown
